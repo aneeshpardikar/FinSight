@@ -101,6 +101,3 @@ finsight/
 - SQLite is suitable for local development. Use a hosted database such as Postgres for production because serverless filesystems are not persistent.
 - Configure the deployed frontend with the URL of the hosted FastAPI backend.
 
-## License
-
-Add your license here.
