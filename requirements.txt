@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+groq
+yfinance
+streamlit
+requests
+pandas
+bcrypt
+python-jose[cryptography]
